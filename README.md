@@ -2,7 +2,7 @@
 
 I am a software developer and physicist, and I enjoy developing in programming languages such as Python, Rust, C++, but I have also developed software with Javascript.
 
-Some of my computer related topics of interest are:
+#### Some of my computer related topics of interest are:
 - Python Back-End development.
 - Data Engineering.
 - Data Science.
